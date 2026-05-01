@@ -1,1 +1,1 @@
-# Fintecth_AI_Advisor
+# Fintecth
